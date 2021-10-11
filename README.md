@@ -24,10 +24,14 @@ Password: qwertyuiop
 ## Available Function
 
 Web Route
-1. Add User
-2. View User
-3. Add Product
-4. View Product
+1. Login
+2. Logout
+3. Add User
+4. View User
+5. Edit User
+6. Add Product
+7. View Product
+8. Edit Product
 
 API Route
 1.  Login
