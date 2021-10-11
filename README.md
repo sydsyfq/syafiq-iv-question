@@ -1,10 +1,10 @@
 # Zus Coffee Backend Developer Interview Question 
 
-This website will be able to inspect, create and edit the product and user details. This website also have API that will able another website to display the products and user details.
+This website will be able to inspect, create and edit the product and user details. This website also has an API that will able another website to display the products and user details.
 
-This website use Jetstream to handle the website's login and registration using Sanctum.
+This website uses Jetstream to handle the website's login and registration using Sanctum.
 
-To build the API, I have install the Laravel Passport that will provides a full OAuth2 server implementation for the website.
+To build the API, I have installed the Laravel Passport to provide a full OAuth2 server implementation for the website.
 
 ## Run The Website
 
