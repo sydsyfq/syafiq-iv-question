@@ -25,20 +25,33 @@ Password: qwertyuiop
 
 Web Route
 1. Login
+![Login](https://user-images.githubusercontent.com/28057667/136832144-a860fa3d-af26-4576-b072-8d6dc751bf41.png)
 2. Logout
+![Logout](https://user-images.githubusercontent.com/28057667/136833578-6753fb8b-301e-4297-995d-5e8ed391338d.png)
 3. Add User
+![Add User](https://user-images.githubusercontent.com/28057667/136833580-8ab1e1b7-7bad-4ed0-b1d1-fd2fa7903df6.png)
 4. View User
+![View User](https://user-images.githubusercontent.com/28057667/136833587-285fd45c-1164-40cb-984c-650a1f87c30d.png)
 5. Edit User
+![Edit User](https://user-images.githubusercontent.com/28057667/136833589-8be5db9f-42bc-4e0e-8cf3-9b12cd1e17b3.png)
 6. Add Product
+![Add Product](https://user-images.githubusercontent.com/28057667/136833592-37d1f71e-4332-4bcc-968e-6f09f368b8e8.png)
 7. View Product
+![View Product](https://user-images.githubusercontent.com/28057667/136833594-9f74ecd0-521f-4bed-8055-6f49328c6fa3.png)
 8. Edit Product
+![Edit Product](https://user-images.githubusercontent.com/28057667/136833598-07807274-7375-4098-b088-f021dbbc3f97.png)
 
 API Route
 1.  Login
+![Login](https://user-images.githubusercontent.com/28057667/136833600-c60ea19a-e23b-4fe5-94b2-1fcbea6ee0b4.png)
 2. Logout
+![Logout](https://user-images.githubusercontent.com/28057667/136833601-a28a792d-2461-4082-986e-7452f6d1103c.png)
 3. View User List
+![View User List](https://user-images.githubusercontent.com/28057667/136833606-b91f011e-6ff2-4805-a667-3400637349c1.png)
 4. View Available Product List
+![View Available Product List](https://user-images.githubusercontent.com/28057667/136833608-9a8a6cd3-c012-42a4-934f-878688d276b7.png)
 5. View Product Details
+![View Product Details](https://user-images.githubusercontent.com/28057667/136833572-9e9a0797-2aa9-4af4-8f76-37f74c24f11e.png)
 
 ## How To Use API
 Use POSTMAN to test API.
