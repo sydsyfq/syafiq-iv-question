@@ -65,6 +65,11 @@ There is 5 API routes
 
 ### Login Function API (POST)
 
+URL 
+```
+http://127.0.0.1:8000/api/login
+```
+
 In headers include
 ```
 Content-Type:application/json
@@ -89,6 +94,10 @@ The JSON will return status, message and the access token
 ```
 
 ### Logout Function API (POST)
+URL 
+```
+http://127.0.0.1:8000/api/logout
+```
 
 In headers include
 ```
@@ -106,6 +115,10 @@ The JSON will return status and message
 ```
 
 ### View User List Function API (GET)
+URL 
+```
+http://127.0.0.1:8000/api/user-list
+```
 
 In headers include
 ```
@@ -131,6 +144,10 @@ The JSON will return status, message and user data fetch
 ```
 
 ### View Available Product Function API (GET)
+URL 
+```
+http://127.0.0.1:8000/api/product-list
+```
 
 In headers include
 ```
@@ -156,6 +173,10 @@ The JSON will return status, message and product data fetch
 ```
 
 ### View Product Details Function API (GET)
+URL 
+```
+http://127.0.0.1:8000/api/product-details/{id}
+```
 
 In headers include
 ```
